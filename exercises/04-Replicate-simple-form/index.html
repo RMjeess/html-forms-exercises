@@ -1,13 +1,79 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>4Geeks Academy</title>
-</head>
-<body>
-<form>
-<!-- your code here -->
-</form>
-</body>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>4Geeks Academy</title>
+	</head>
+
+	<style>
+		div {
+			position: absolute;
+		}
+
+		table,
+		th,
+		td {
+			border: 1px solid black;
+		}
+
+		th {
+			background-color: violet;
+		}
+	</style>
+
+	<body>
+		<form>
+			<div>
+				<table style="width: 100%">
+					<tr>
+						<th>Name</th>
+						<th>Value</th>
+					</tr>
+
+					<tr>
+						<td><label for="fname">Name</label></td>
+						<td>
+							<input type="radio" id="html" name="fav_language" value="Male" />
+							<label for="vehicle1">Male</label>
+							<br />
+							<input type="radio" id="css" name="fav_language" value="Female" />
+							<label for="vehicle1">Female</label>
+						</td>
+					</tr>
+
+					<tr>
+						<td>Eye color</td>
+						<td>Green</td>
+					</tr>
+
+					<tr>
+						<td><label for="fname">Check all that apply</label></td>
+						<td>
+							<input type="checkbox" value="Over 6 ft tall" />
+							<label> Over 6 ft tall</label>
+							<br />
+							<input type="checkbox" value="Over 200 pounds" />
+							<label> Over 200 pounds</label>
+							<br />
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<p><label for="description">Describe your athletic ability:</label></p>
+						</td>
+					</tr>
+
+					<tr>
+						<td><textarea id="description" name="description" rows="4" cols="50"></textarea></td>
+					</tr>
+
+					<tr>
+						<td><input type="submit" value="Enter my information" /></td>
+					</tr>
+				</table>
+			</div>
+		</form>
+	</body>
 </html>
