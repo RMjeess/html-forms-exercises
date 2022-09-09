@@ -1,13 +1,13 @@
-# HTML5 & CSS3 Forms :sparkles:
+# HTML5 Forms :sparkles:
 > 9 html forms exercises.
 
 This is part of a series of auto-graded exercises to practice HTML & CSS. Credit goes to <a href="https://github.com/4GeeksAcademy">4Geeks Academy</a>. I will link the original repos in the correct order below. The difficulty of the exercises increases progressively, so it is recommended that they're solved in this order.
 
 <ol>
-  <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Learn HTML</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Learn HTML5 Forms</a> ← You are here</li>
-  <li><a href="https://github.com/4GeeksAcademy/css-tutorial-exercises-course">Learn CSS</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial">Learn Bootstrap</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">HTML</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">HTML5 Forms</a> ← You are here</li>
+  <li><a href="https://github.com/4GeeksAcademy/css-tutorial-exercises-course">CSS</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial">Bootstrap</a></li>
 </ol>
 
 ## One click installation:
